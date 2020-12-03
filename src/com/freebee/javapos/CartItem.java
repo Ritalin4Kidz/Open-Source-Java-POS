@@ -1,11 +1,16 @@
 package com.freebee.javapos;
 
+//BASE CARTITEM CLASS, CONTAINS PRICE & PRODUCTNAME
 public class CartItem {
-    public CartItem(float _price, int _quantity, String _productname) {quantity = _quantity; price = _price; productname = _productname;}
-    public int quantity;
+    public CartItem(float _price,  String _productname) {price = _price; productname = _productname;}
     public float price;
     public String productname;
 
-    public void AddQuantity() {quantity++;}
-    public void DecreaseQuantity() {quantity--;}
+    @Override
+    public String toString() {
+        return "CartItem{" +
+                "price=" + price +
+                ", productname='" + productname + '\'' +
+                '}';
+    }
 }

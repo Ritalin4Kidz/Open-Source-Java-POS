@@ -1,0 +1,46 @@
+
+{
+ "270220201003333 ": [
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}"
+ ],
+ "Total Price": 49.95,
+ "Total Items": 7
+}
+{
+ "270220201003333 ": [
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}"
+ ],
+ "Total Price": 78.45,
+ "Total Items": 11
+}
+{
+ "270220201003333 ": [
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}",
+  "CartItem{price=5.35, productname='Small Chips'}"
+ ],
+ "Total Price": 51.7,
+ "Total Items": 9
+}
