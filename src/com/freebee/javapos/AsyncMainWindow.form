@@ -85,6 +85,7 @@
                       <component id="c2b6" class="javax.swing.JTextArea" binding="ReceiptTextBox">
                         <constraints/>
                         <properties>
+                          <editable value="false"/>
                           <enabled value="true"/>
                           <lineWrap value="true"/>
                           <maximumSize width="300" height="350"/>
@@ -129,6 +130,7 @@
                       <component id="b9b54" class="javax.swing.JTextArea" binding="CartTextBox">
                         <constraints/>
                         <properties>
+                          <editable value="false"/>
                           <lineWrap value="false"/>
                           <maximumSize width="350" height="350"/>
                           <minimumSize width="350" height="350"/>

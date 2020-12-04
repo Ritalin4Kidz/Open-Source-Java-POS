@@ -1,0 +1,12 @@
+
+{
+ "270220201003333 ": [
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=3.5, productname='Coca-Cola 600mL'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}",
+  "CartItem{price=10.75, productname='Cheeseburger'}"
+ ],
+ "Total Price": 39.25,
+ "Total Items": 5
+}

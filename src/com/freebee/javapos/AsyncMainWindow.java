@@ -38,6 +38,7 @@ public class AsyncMainWindow implements PCEFTPOSEventListener, SSLSocketListener
 
         } catch (Exception ignored) {
         }
+        //INITIALISE THE WINDOW
         JFrame frame = new JFrame("Joey's Burgers");
         frame.setContentPane(new AsyncMainWindow().Panel1);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
@@ -46,6 +47,7 @@ public class AsyncMainWindow implements PCEFTPOSEventListener, SSLSocketListener
     }
 
     public AsyncMainWindow() {
+        //ADD FUNCTIONALITY TO THE BUTTONS
         TenderBtn.addActionListener(e -> DoTransaction());
         BurgerAddButton.addActionListener(e -> AddBurger());
         SodaAddButton.addActionListener(e -> AddCoke());
